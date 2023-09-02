@@ -13,20 +13,6 @@ h1 {
   text-align: center;
 }
 
-input[type="text"] {
-  display: inline-block;
-  width: 100%;
-  margin-bottom: 10px;
-  border-radius: 20px;
-  border: none;
-  background: #f2f2f2;
-  font-size: 16px;
-  padding: 10px;
-  outline: none;
-}
-input[type="text"]::placeholder {
-  color: #9798a9;
-}
 #actions-container {
   display: flex;
   flex-direction: column;
